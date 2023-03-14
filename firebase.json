@@ -9,7 +9,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/index.html"
+        "destination": "http://guias-app.web.app/index.html"
       }
     ]
   }
